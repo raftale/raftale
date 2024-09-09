@@ -9,21 +9,12 @@
 
 ## 过去时
 掌握：
-- Java
-- SpringBoot
-- SpringCloud
-- MySQL
-- Redis
-- ElasticSearch
-- Kafka
-- Linux
+- Java, SpringBoot, SpringCloud
+- MySQL, Redis, ElasticSearch, Kafka
 
 了解：
-- FreeMarker
-- JavaScript/React
-- Jenkins
-- K8S
-- Docker
+- FreeMarker, JavaScript, React
+- Jenkins, K8S, Docker
 
 ## 现在时
 - 持续构建自己的[博客](https://raftale.github.io)
@@ -32,10 +23,7 @@
 
 ## 将来时
 - 做一些技术视频
-- React
-- Go
-- Solidity
-
+- React, Go, Solidity
 
 ## 书籍推荐
 - Designing Data-Intensive Applications (DDIA)
